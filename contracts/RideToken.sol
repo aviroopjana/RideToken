@@ -115,8 +115,8 @@ contract RideToken {
         active = renters[walletAddress].active;
     }
 
-    // function renterExists(address walletAddress) public view returns (bool) {
-    //     if (renters[walletAdress].walletAddress)
-    // }
-}
+//     function renterExists(address walletAddress) public view returns (bool) {
+//         if (renters[walletAdress].walletAddress)
+//     }
+// }
 
